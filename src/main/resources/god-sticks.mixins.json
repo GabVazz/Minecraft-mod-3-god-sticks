@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.gab.godsticks.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
